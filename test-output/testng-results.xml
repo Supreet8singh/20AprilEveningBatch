@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38699" started-at="2019-05-19T17:15:56Z" finished-at="2019-05-19T17:16:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38699" started-at="2019-05-19T17:15:56Z" finished-at="2019-05-19T17:16:35Z">
+      <class name="mainScript.DriverScript">
+        <test-method status="PASS" signature="preRequiste()[pri:0, instance:mainScript.DriverScript@26be92ad]" name="preRequiste" is-config="true" duration-ms="669" started-at="2019-05-19T17:15:56Z" finished-at="2019-05-19T17:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequiste -->
+        <test-method status="PASS" signature="tc01()[pri:1, instance:mainScript.DriverScript@26be92ad]" name="tc01" duration-ms="33982" started-at="2019-05-19T17:15:57Z" finished-at="2019-05-19T17:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:2, instance:mainScript.DriverScript@26be92ad]" name="tc02" duration-ms="3494" started-at="2019-05-19T17:16:31Z" finished-at="2019-05-19T17:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03()[pri:3, instance:mainScript.DriverScript@26be92ad]" name="tc03" duration-ms="269" started-at="2019-05-19T17:16:34Z" finished-at="2019-05-19T17:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:4, instance:mainScript.DriverScript@26be92ad]" name="tc04" duration-ms="239" started-at="2019-05-19T17:16:35Z" finished-at="2019-05-19T17:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+      </class> <!-- mainScript.DriverScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
