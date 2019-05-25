@@ -11,6 +11,9 @@ public class TC004 {
 		AS.loungeMainMenu();
 		AS.loungeServices();
 		AS.getLoungeServices();
+		
+		//-------------This is for testing GIT changes -------------------------
+		
 		CommonMethods.closeBrowser();
 	}
 }
