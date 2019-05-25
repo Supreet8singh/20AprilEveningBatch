@@ -4,7 +4,8 @@ import utility.ExcelReadWrite;
 
 public class ConstVariables {
 
-	public static final String excelPath = "E:\\20AprilBatch\\HybridFramework_WithTESTNG\\Indigo Test Cases.xlsx";
+	//------------------------------------
+	public static final String excelPath = "E:\\Git Practise\\Git20AprilEvening\\HybridFramework_WithTESTNG\\HybridFramework_WithTESTNG\\Indigo Test Cases.xlsx";
 	public static final String browserName = ExcelReadWrite.readValues("TestCases", 1, 4);
 	public static final String websiteURL = ExcelReadWrite.readValues("TestCases", 2, 4);
 	public static final String departureCity = ExcelReadWrite.readValues("TestCases", 3, 4);

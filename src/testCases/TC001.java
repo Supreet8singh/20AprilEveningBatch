@@ -10,7 +10,7 @@ public class TC001 {
 	public static void tc01() throws Exception {
 		Home_Header HH = new Home_Header();
 		Flight_Select FS = new Flight_Select();
-			
+			//----------------------------------------------
 		CommonMethods.browserType(ConstVariables.browserName);
 		CommonMethods.openURL(ConstVariables.websiteURL);
 
